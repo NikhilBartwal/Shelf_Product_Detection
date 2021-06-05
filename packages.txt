@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+tqdm
+PIL
+collections
+IPython
+tf-models-official
+pycocotools
+lvis
+tf-slim
