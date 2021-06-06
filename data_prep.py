@@ -45,7 +45,7 @@ def download_original_data():
         print('Found existing EffDet D0. Continuing...')
 
 def install_dependencies():
-    os.system('pip install -r packages.txt')
+    os.system('pip install -r requirements.txt')
     import pycocotools, tf_slim, lvis
 
 def get_image_filenames():
